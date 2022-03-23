@@ -28,6 +28,7 @@ const Header = ({ history, dimensions }) => {
                         <NavLink to='/' exact>
                             JADED CO.
                         </NavLink>
+                        <br>
                     </div>
                     <div className='nav-toggle'>
                         <div
