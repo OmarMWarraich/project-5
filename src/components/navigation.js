@@ -55,7 +55,7 @@ const Navigation = () => {
                             </ul>
                             <ul className="nav-info">
                                 <li className="nav-info-label">Phone</li>
-                                <li>+92 (3) 34 548 87 76</li>
+                                <li>+92 (3) 354000071</li>
                             </ul>
                             <ul className="nav-info">
                                 <li className="nav-info-label">Legal</li>
